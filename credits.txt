@@ -1,0 +1,4 @@
+Credits:
+- Notch/Mojang or whoever designed the older textures.
+- Golden Days Resource Pack https://github.com/PoeticRainbow/golden-days
+- TheTechMaster12 for the Old Enchant Glint: https://www.planetminecraft.com/texture-pack/old-enchant-glint/
