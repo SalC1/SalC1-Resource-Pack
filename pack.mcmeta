@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 69,
-    "description": "Use programmer art below this! (Or else it won't look right)"
+    "description": "Use programmer art below this! (Or else it won't look right)",
+    "min_format": [69,0],
+	"max_format": [69,0]
   }
 }
